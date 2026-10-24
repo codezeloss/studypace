@@ -2,6 +2,21 @@
 
 StudyPace is an Android app for distance-learning students. It tracks study time per module against a weekly goal and checks whether you are on pace for the exam.
 
+<table>
+  <tr>
+    <td align="center"><img src="docs/screenshots/27-dashboard-light.png" width="220" alt="This week dashboard with weekly progress ring, pace status and streak"><br><sub>This week</sub></td>
+    <td align="center"><img src="docs/screenshots/22-timer-running.png" width="220" alt="Focus timer running for a module"><br><sub>Focus timer</sub></td>
+    <td align="center"><img src="docs/screenshots/24-timer-review.png" width="220" alt="Timer review with focus rating before saving the session"><br><sub>Session review</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/screenshots/16-session-form-chips.png" width="220" alt="Form to log a past study session with duration chips"><br><sub>Log a past session</sub></td>
+    <td align="center"><img src="docs/screenshots/26-history-timer-session.png" width="220" alt="History of sessions grouped by week with module filter"><br><sub>History</sub></td>
+    <td align="center"><img src="docs/screenshots/28-dashboard-dark.png" width="220" alt="This week dashboard in dark theme"><br><sub>Dark theme</sub></td>
+  </tr>
+</table>
+
+More screenshots and the Figma wireframes are in [`docs/screenshots/`](docs/screenshots/) and [`docs/wireframes/`](docs/wireframes/).
+
 ## Features
 
 - **Individual goals:** a weekly study goal per module. You type it in, or StudyPace suggests one from the ECTS workload (25 h per ECTS) and the exam date.
